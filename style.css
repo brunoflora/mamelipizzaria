@@ -95,9 +95,9 @@ body {
 	top: 88px;
 	text-align: center;
 	color: #fff;
-	opacity: .5;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
+	opacity: .75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=75);
 }
 
 .pizzeria-phone {
@@ -107,6 +107,10 @@ body {
 	font-size: 54px;
 	color: #FFB100 !important;
 	font-weight: bold;
+}
+
+.pizzeria-menu {
+	font-size: 22.5;
 }
 
 .jumbotron {
